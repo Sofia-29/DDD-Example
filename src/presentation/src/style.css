@@ -1,0 +1,25 @@
+
+.content {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.3rem;
+    padding: 150px;
+    text-align: center;
+}
+
+h2 {
+    padding-top: 20px;
+}
+
+button {
+    padding: 10px;
+    font-size: 1.3rem;
+    align-self: center;
+    margin-right: 5px;
+}
+
+ul {
+    list-style-type: circle;
+    padding-top: 20px;
+}
